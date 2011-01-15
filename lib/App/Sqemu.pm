@@ -16,7 +16,7 @@ sqemu.pl - Start a qemu machine based on a configuration file.
 
 =head1 VERSION
 
-This documentation refers to "sqemu.pl" version 0.0.1
+This documentation refers to "sqemu.pl" version 0.01_00
 
 =head1 USAGE
 
