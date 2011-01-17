@@ -8,7 +8,6 @@ use diagnostics;
 use Carp;
 
 use Readonly;
-use Getopt::Euclid;
 use IO::Prompt;
 use Error;
 use Log::Log4perl qw(:easy);
